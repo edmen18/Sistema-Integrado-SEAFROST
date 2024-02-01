@@ -1,0 +1,95 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "seapersonal", ".", "{DC6C04A0-2F0A-448E-886C-A6F61D4395AD}"
+	ProjectSection(SvnOrigin) = preProject
+		@Keys = Enlist
+		Enlist = Required
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "Svn"
+		SccAuxPath = "Svn"
+		SccLocalPath = "Svn"
+		SccProvider = "SubversionScc"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{59B281DD-D078-4535-921A-1C1C84842205}|CapaEntidades.dll;{225F342D-1363-4765-AF17-9F8CB18A07DE}|CapaNegocio.dll;{96787991-3093-4EB1-8803-A0C064B0D2A8}|CapaDatos.dll;{dc4f049f-6b6a-41e0-aa36-2e98c27bab4d}|ENTITY.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/SmartFileUpload"
+		Debug.AspNetCompiler.PhysicalPath = "..\sealogistica\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SmartFileUpload\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SmartFileUpload"
+		Release.AspNetCompiler.PhysicalPath = "..\sealogistica\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SmartFileUpload\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2510"
+		SlnRelativePath = "..\sealogistica\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{96787991-3093-4EB1-8803-A0C064B0D2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidades", "CapaEntidades\CapaEntidades.csproj", "{59B281DD-D078-4535-921A-1C1C84842205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{225F342D-1363-4765-AF17-9F8CB18A07DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENTITY", "ENTITY\ENTITY.csproj", "{DC4F049F-6B6A-41E0-AA36-2E98C27BAB4D}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6C04A0-2F0A-448E-886C-A6F61D4395AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6C04A0-2F0A-448E-886C-A6F61D4395AD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC6C04A0-2F0A-448E-886C-A6F61D4395AD}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{DC6C04A0-2F0A-448E-886C-A6F61D4395AD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6C04A0-2F0A-448E-886C-A6F61D4395AD}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DC6C04A0-2F0A-448E-886C-A6F61D4395AD}.Release|x86.ActiveCfg = Debug|Any CPU
+		{96787991-3093-4EB1-8803-A0C064B0D2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96787991-3093-4EB1-8803-A0C064B0D2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96787991-3093-4EB1-8803-A0C064B0D2A8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{96787991-3093-4EB1-8803-A0C064B0D2A8}.Debug|x86.Build.0 = Debug|Any CPU
+		{96787991-3093-4EB1-8803-A0C064B0D2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96787991-3093-4EB1-8803-A0C064B0D2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96787991-3093-4EB1-8803-A0C064B0D2A8}.Release|x86.ActiveCfg = Release|x86
+		{96787991-3093-4EB1-8803-A0C064B0D2A8}.Release|x86.Build.0 = Release|x86
+		{59B281DD-D078-4535-921A-1C1C84842205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B281DD-D078-4535-921A-1C1C84842205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B281DD-D078-4535-921A-1C1C84842205}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{59B281DD-D078-4535-921A-1C1C84842205}.Debug|x86.Build.0 = Debug|Any CPU
+		{59B281DD-D078-4535-921A-1C1C84842205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B281DD-D078-4535-921A-1C1C84842205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B281DD-D078-4535-921A-1C1C84842205}.Release|x86.ActiveCfg = Release|x86
+		{59B281DD-D078-4535-921A-1C1C84842205}.Release|x86.Build.0 = Release|x86
+		{225F342D-1363-4765-AF17-9F8CB18A07DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225F342D-1363-4765-AF17-9F8CB18A07DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225F342D-1363-4765-AF17-9F8CB18A07DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{225F342D-1363-4765-AF17-9F8CB18A07DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225F342D-1363-4765-AF17-9F8CB18A07DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{225F342D-1363-4765-AF17-9F8CB18A07DE}.Release|x86.ActiveCfg = Release|x86
+		{225F342D-1363-4765-AF17-9F8CB18A07DE}.Release|x86.Build.0 = Release|x86
+		{DC4F049F-6B6A-41E0-AA36-2E98C27BAB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4F049F-6B6A-41E0-AA36-2E98C27BAB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4F049F-6B6A-41E0-AA36-2E98C27BAB4D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC4F049F-6B6A-41E0-AA36-2E98C27BAB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4F049F-6B6A-41E0-AA36-2E98C27BAB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4F049F-6B6A-41E0-AA36-2E98C27BAB4D}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\jordinolaA\Desktop\seapersonal\EFW\bin\Debug\EFW.dll.config
+C:\Users\jordinolaA\Desktop\seapersonal\EFW\bin\Debug\EFW.dll
+C:\Users\jordinolaA\Desktop\seapersonal\EFW\bin\Debug\EFW.pdb
+C:\Users\jordinolaA\Desktop\seapersonal\EFW\obj\Debug\EFW.dll
+C:\Users\jordinolaA\Desktop\seapersonal\EFW\obj\Debug\EFW.pdb
+C:\Users\jordinola\Desktop\seajony\seapersonal\EFW\bin\Debug\EFW.dll.config
+C:\Users\jordinola\Desktop\seajony\seapersonal\EFW\bin\Debug\EFW.dll
+C:\Users\jordinola\Desktop\seajony\seapersonal\EFW\bin\Debug\EFW.pdb
+C:\Users\jordinola\Desktop\seajony\seapersonal\EFW\obj\Debug\EFW.dll
+C:\Users\jordinola\Desktop\seajony\seapersonal\EFW\obj\Debug\EFW.pdb

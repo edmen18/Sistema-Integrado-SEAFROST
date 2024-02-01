@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Para obtener más información sobre cómo configurar la aplicación de ASP.NET, visite
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <configSections>
+    <sectionGroup name="businessObjects">
+      <sectionGroup name="crystalReports">
+        <section name="rptBuildProvider" type="CrystalDecisions.Shared.RptBuildProviderHandler, CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, Custom=null" />
+      </sectionGroup>
+    </sectionGroup>
+  </configSections>
+  <appSettings>
+    <add key="CrystalImageCleaner-AutoStart" value="true" />
+    <add key="CrystalImageCleaner-Sleep" value="60000" />
+    <add key="CrystalImageCleaner-Age" value="120000" />
+  </appSettings>
+  <connectionStrings>
+    <add name="2011" connectionString="Data Source=192.168.1.10;Initial Catalog=inysoft2011;Persist Security Info=True;User ID=inysoft2011;Password=rinysa2011;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <add name="2012" connectionString="Data Source=.;Initial Catalog=inysoft2013;Persist Security Info=True;User ID=inysoft2013;Password=rinysa2013;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <add name="SisparametrosABC" connectionString="Data Source=EUPHYLAX;Initial Catalog=Sisparametros;Persist Security Info=True;User ID=abcsoft2013;Password=abc2013;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <add name="SisparametrosINY" connectionString="Data Source=PRIONACEA;Initial Catalog=Sisparametros;Persist Security Info=True;User ID=inysoft2013;Password=rinysa2013;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <add name="inysoft2011" connectionString="Data Source=192.168.1.10;Initial Catalog=inysoft2011;Persist Security Info=True;User ID=inysoft2011;Password=rinysa2011;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <add name="inysoft2012" connectionString="Data Source=192.168.1.10;Initial Catalog=inysoft2012;Persist Security Info=True;User ID=inysoft2012;Password=rinysa2012;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <!--<add name="inysoft2012" connectionString="Data Source=192.168.1.10;Initial Catalog=inysoft2012;Persist Security Info=True;User ID=inysoft2012;Password=rinysa2012;Connect Timeout=120" providerName="System.Data.SqlClient"/>-->
+    <add name="abcsoft2011" connectionString="Data Source=192.168.1.10;Initial Catalog=abcsoft2011;Persist Security Info=True;User ID=inysoft2011;Password=rinysa2011;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <add name="abcsoft2012" connectionString="Data Source=192.168.1.10;Initial Catalog=abcsoft2012;Persist Security Info=True;User ID=inysoft2012;Password=rinysa2012;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <!--<add name="inysoft2013" connectionString="Data Source=mssql1.perucloud.net;Initial Catalog=seafrost;Persist Security Info=True;User ID=seafrost;Password=ZXFhW9mF;Connect Timeout=120" providerName="System.Data.SqlClient"/>-->
+    <!--<add name="inysoft2013" connectionString="Data Source=.;Initial Catalog=seafrost;Persist Security Info=True;User ID=seafrost;Password=ZXFhW9mF;Connect Timeout=120" providerName="System.Data.SqlClient" />-->
+    <!--<add name="inysoft2013" connectionString="Data Source=.;Initial Catalog=archivos;Persist Security Info=True;User ID=inysoft2013;Password=rinysa2013;Connect Timeout=120" providerName="System.Data.SqlClient"/>-->
+    <add name="abcsoft2013" connectionString="Data Source=EUPHYLAX;Initial Catalog=abcsoft2013;Persist Security Info=True;User ID=abcsoft2013;Password=abc2013;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <add name="OLEDbConnection" connectionString="Provider=Microsoft.Jet.OLEDB.4.0; Data Source=your database path\yourdatabasename.mdb;" providerName="System.Data.SqlClient" />
+    <add name="seaproduccion" connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D\planillas.mdb" />
+    <!--<add name="seaplanillas" connectionString="Data Source= .;Initial Catalog=RRHHCONSERVAS;Persist Security Info=True;User ID=sa;Password=SEA2013frost;Connect Timeout=120" providerName="System.Data.SqlClient" />-->
+    <add name="seaplanillas" connectionString="Data Source=.;Initial Catalog=SEAPLANILLASRRHH_PRUEBA;Persist Security Info=True;User ID=sa;Password=SEA2013frost;Connect Timeout=120" providerName="System.Data.SqlClient" />
+    <add name="SEAFROST" connectionString="Data Source=.;User ID=ADMINDB;Password=ADMINDB;" providerName="System.Data.OracleClient" />
+
+    <add name="INYSOFT2013" connectionString="Data Source=.;Initial Catalog=INYSOFT2013_PRUEBA1;Persist Security Info=True;User ID=sa;Password=SEA2013frost;Connect Timeout=120" providerName="System.Data.SqlClient" />
+
+    <add name="INYSOFT2013Entities" connectionString="metadata=res://*/RRHH.csdl|res://*/RRHH.ssdl|res://*/RRHH.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=.;Initial Catalog=INYSOFT2013;Persist Security Info=True;User ID=sa;Password=SEA2013frost;MultipleActiveResultSets=True&quot;" providerName="System.Data.EntityClient" />
+
+    <add name="PLANILLASCONTEXT" connectionString="data source=.;initial catalog=SEAPLANILLASRRHH_PRUEBA;persist security info=True;user id=sa;password=SEA2013frost;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+
+   
+    <add name="PERSONALCONTEXT" connectionString="data source=.;initial catalog=INYSOFT2013_PRUEBA1;user id=sa;password=SEA2013frost;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+
+    <add name="RRHHCONSERVAS" connectionString="data source=192.168.10.221;initial catalog=RRHHCONSERVAS;user id=sa;password=SEA2013frost;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+    <add name="SEAPLANILLASRRHH" connectionString="data source=192.168.10.221;initial catalog=SEAPLANILLASRRHH;user id=sa;password=SEA2013frost;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+    <add name="ANEXO_RSFACAR" connectionString="data source=192.168.10.221;initial catalog=ANEXO_RSFACAR;user id=sa;password=SEA2013frost;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+    <add name="RSFACAR" connectionString="data source=192.168.10.221;initial catalog=RSFACCAR;persist security info=True;user id=sa;password=SEA2013frost;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+    <add name="RSCONCAR" connectionString="data source=192.168.10.221;initial catalog=RSCONCAR;persist security info=True;user id=sa;password=SEA2013frost;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+    <add name="DB_EXPOR" connectionString="data source=192.168.10.221;initial catalog=DB_EXPOR;persist security info=True;user id=sa;password=SEA2013frost;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+    <add name="PERSONALCONTEXTO" connectionString="data source=192.168.10.221;initial catalog=INYSOFT2013;user id=inysoft2013;password=rinysa2013;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+    <add name="GLOBALCONTEXT" connectionString="data source=192.168.10.221;initial catalog=SisEntidadesGlobal;persist security info=True;user id=sa;password=SEA2013frost;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+
+
+  </connectionStrings>
+
+
+  <system.web>
+    <httpHandlers>
+      <add path="CrystalImageHandler.aspx" verb="GET" type="CrystalDecisions.Web.CrystalImageHandler, CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+      <add path="Reserved.ReportViewerWebControl.axd" verb="*" type="Microsoft.Reporting.WebForms.HttpHandler, Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" validate="false" />
+    </httpHandlers>
+    <httpRuntime executionTimeout="10000" maxRequestLength="1048576" />
+    <!--<globalization uiCulture="es" culture="es-MX" fileEncoding="utf-8"/>-->
+    <globalization fileEncoding="utf-8" requestEncoding="utf-8" responseEncoding="utf-8" culture="es-PE" uiCulture="es-PE" />
+    <compilation debug="true" targetFramework="4.0">
+      <assemblies>
+        <add assembly="Microsoft.Build.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A" />
+        <add assembly="System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A" />
+        <add assembly="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+        <add assembly="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+        <add assembly="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+        <add assembly="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+        <add assembly="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+        <!--<add assembly="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845DCD8080CC91" />
+        <add assembly="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845DCD8080CC91" />-->
+        <add assembly="System.Data.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+        <add assembly="System.Data.Entity.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+      </assemblies>
+      <buildProviders>
+        <add extension=".rpt" type="CrystalDecisions.Web.Compilation.RptBuildProvider, CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+        <add extension=".rdlc" type="Microsoft.Reporting.RdlBuildProvider, Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+        <add extension=".edmx" type="System.Data.Entity.Design.AspNet.EntityDesignerBuildProvider" />
+      </buildProviders>
+    </compilation>  
+    <authentication mode="Forms">
+      <forms loginUrl="~/Account/Login.aspx" timeout="2880" />
+    </authentication>
+    <membership>
+      <providers>
+        <clear />
+        <add name="AspNetSqlMembershipProvider" type="System.Web.Security.SqlMembershipProvider" connectionStringName="ApplicationServices" enablePasswordRetrieval="false" enablePasswordReset="true" requiresQuestionAndAnswer="false" requiresUniqueEmail="false" maxInvalidPasswordAttempts="5" minRequiredPasswordLength="6" minRequiredNonalphanumericCharacters="0" passwordAttemptWindow="10" applicationName="/" />
+      </providers>
+    </membership>
+    <profile>
+      <providers>
+        <clear />
+        <add name="AspNetSqlProfileProvider" type="System.Web.Profile.SqlProfileProvider" connectionStringName="ApplicationServices" applicationName="/" />
+      </providers>
+    </profile>
+    <roleManager enabled="false">
+      <providers>
+        <clear />
+        <add name="AspNetSqlRoleProvider" type="System.Web.Security.SqlRoleProvider" connectionStringName="ApplicationServices" applicationName="/" />
+        <add name="AspNetWindowsTokenRoleProvider" type="System.Web.Security.WindowsTokenRoleProvider" applicationName="/" />
+      </providers>
+    </roleManager>
+    <!--<identity impersonate="true" userName="Administrator" password="Paris25949"/>-->
+    <pages>
+      <controls>
+        <add tagPrefix="asp" namespace="System.Web.UI" assembly="System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35" />
+        <add tagPrefix="asp" namespace="System.Web.UI.WebControls" assembly="System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35" />
+        <add tagPrefix="ajaxToolkit" assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" />
+      </controls>
+    </pages>
+    
+    <customErrors mode="Off" />
+   <sessionState timeout="1440" />
+  </system.web>
+  <system.webServer>
+    <modules runAllManagedModulesForAllRequests="true" />
+    <validation validateIntegratedModeConfiguration="false" />
+    <handlers>
+      <add name="CrystalImageHandler.aspx_GET" verb="GET" path="CrystalImageHandler.aspx" type="CrystalDecisions.Web.CrystalImageHandler, CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" preCondition="integratedMode" />
+      <add name="ReportViewerWebControlHandler" preCondition="integratedMode" verb="*" path="Reserved.ReportViewerWebControl.axd" type="Microsoft.Reporting.WebForms.HttpHandler, Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    </handlers>
+  </system.webServer>
+  <system.web.extensions>
+    <scripting>
+      <webServices>
+        <jsonSerialization maxJsonLength="5000000" />
+      </webServices>
+    </scripting>
+  </system.web.extensions>
+  <businessObjects>
+    <crystalReports>
+      <rptBuildProvider>
+        <add embedRptInResource="true" />
+      </rptBuildProvider>
+    </crystalReports>
+  </businessObjects>
+</configuration>

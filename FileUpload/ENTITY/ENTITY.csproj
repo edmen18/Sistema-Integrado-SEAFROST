@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DC4F049F-6B6A-41E0-AA36-2E98C27BAB4D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ENTITY</RootNamespace>
+    <AssemblyName>ENTITY</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AL0003ALMA.cs" />
+    <Compile Include="AL0003APRO.cs" />
+    <Compile Include="AL0003ARTI.cs" />
+    <Compile Include="AL0003ASER.cs" />
+    <Compile Include="AL0003CABA.cs" />
+    <Compile Include="AL0003FACC.cs" />
+    <Compile Include="AL0003FACD.cs" />
+    <Compile Include="AL0003LOGC.cs" />
+    <Compile Include="AL0003MOVC.cs" />
+    <Compile Include="AL0003MOVD.cs" />
+    <Compile Include="AL0003MOVG.cs" />
+    <Compile Include="AL0003REQC.cs" />
+    <Compile Include="AL0003REQD.cs" />
+    <Compile Include="AL0003RESU.cs" />
+    <Compile Include="AL0003SERI.cs" />
+    <Compile Include="AL0003SKNU.cs" />
+    <Compile Include="AL0003STOC.cs" />
+    <Compile Include="AL0003TABL.cs" />
+    <Compile Include="AL0003TABM.cs" />
+    <Compile Include="ALCIAS.cs" />
+    <Compile Include="ANEXO_RSFACAR.cs" />
+    <Compile Include="Ccosto.cs" />
+    <Compile Include="CO0003MOVC.cs" />
+    <Compile Include="CO0003MOVD.cs" />
+    <Compile Include="CO0003MOVI.cs" />
+    <Compile Include="CP0003CUBA.cs" />
+    <Compile Include="CP0003MAEC.cs" />
+    <Compile Include="CP0003PAGO.cs" />
+    <Compile Include="CP0003TAGE.cs" />
+    <Compile Include="CT0003AGEN.cs" />
+    <Compile Include="CT0003ANEX.cs" />
+    <Compile Include="CT0003TAGE.cs" />
+    <Compile Include="CTCAMB.cs" />
+    <Compile Include="DETALLE_LIQUIDACION.cs" />
+    <Compile Include="DetPlanilla.cs" />
+    <Compile Include="DetPlanillaCG.cs" />
+    <Compile Include="FT0003CLIE.cs" />
+    <Compile Include="FT0003CTAE.cs" />
+    <Compile Include="FT0003LINE.cs" />
+    <Compile Include="FT0003NUME.cs" />
+    <Compile Include="FT0003TCAJ.cs" />
+    <Compile Include="Model1.cs" />
+    <Compile Include="Model10.cs" />
+    <Compile Include="Model11.cs" />
+    <Compile Include="Model12.cs" />
+    <Compile Include="Model13.cs" />
+    <Compile Include="Model14.cs" />
+    <Compile Include="Model15.cs" />
+    <Compile Include="Model16.cs" />
+    <Compile Include="Model17.cs" />
+    <Compile Include="Model18.cs" />
+    <Compile Include="Model19.cs" />
+    <Compile Include="Model2.cs" />
+    <Compile Include="Model3.cs" />
+    <Compile Include="Model4.cs" />
+    <Compile Include="Model5.cs" />
+    <Compile Include="Model6.cs" />
+    <Compile Include="Model7.cs" />
+    <Compile Include="Model8.cs" />
+    <Compile Include="Model9.cs" />
+    <Compile Include="OT_CO0003MOVC.cs" />
+    <Compile Include="OT_CO0003MOVD.cs" />
+    <Compile Include="RRHHCONSERVAS.cs" />
+    <Compile Include="SEAPLANILLASRRHH.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RSCONCAR.cs" />
+    <Compile Include="RSFACAR.cs" />
+    <Compile Include="SM.cs" />
+    <Compile Include="tabla_anticipo.cs" />
+    <Compile Include="tabla_area.cs" />
+    <Compile Include="tabla_bahias.cs" />
+    <Compile Include="tabla_busquedaRequerimiento.cs" />
+    <Compile Include="tabla_d_areausua.cs" />
+    <Compile Include="tabla_d_nivelusua.cs" />
+    <Compile Include="tabla_d_usuaprod.cs" />
+    <Compile Include="tabla_d_usuaprodedicion.cs" />
+    <Compile Include="tabla_embarcaciones.cs" />
+    <Compile Include="TABLA_LIQUIDACION_ANTICIPO.cs" />
+    <Compile Include="tabla_menuusuarios.cs" />
+    <Compile Include="tabla_mes.cs" />
+    <Compile Include="tabla_niveledicion.cs" />
+    <Compile Include="tabla_parametros.cs" />
+    <Compile Include="tabla_parametrosbusq.cs" />
+    <Compile Include="tabla_periodo.cs" />
+    <Compile Include="tabla_plan_ord.cs" />
+    <Compile Include="tabla_services.cs" />
+    <Compile Include="tabla_servicesconserva.cs" />
+    <Compile Include="tabla_servicios.cs" />
+    <Compile Include="tabla_stockminimo.cs" />
+    <Compile Include="tabla_subareas.cs" />
+    <Compile Include="tabla_subtipoOC.cs" />
+    <Compile Include="tabla_tipo_despacho.cs" />
+    <Compile Include="tabla_usuarios.cs" />
+    <Compile Include="T_Planilla.cs" />
+    <Compile Include="T_PlanillaCG.cs" />
+    <Compile Include="T_Presentacion.cs" />
+    <Compile Include="T_PresentacionCG.cs" />
+    <Compile Include="T_Producto.cs" />
+    <Compile Include="T_ProductoCG.cs" />
+    <Compile Include="T_Tarea.cs" />
+    <Compile Include="T_TareaCG.cs" />
+    <Compile Include="T_TarGral.cs" />
+    <Compile Include="T_TarGralCG.cs" />
+    <Compile Include="UT0030.cs" />
+    <Compile Include="vista_cocabcera.cs" />
+    <Compile Include="vista_costos.cs" />
+    <Compile Include="vista_detalleliquidacion.cs" />
+    <Compile Include="vista_esvarticulo.cs" />
+    <Compile Include="vista_liquidacion.cs" />
+    <Compile Include="vista_OcCabDet.cs" />
+    <Compile Include="vista_reporte_liquidacion.cs" />
+    <Compile Include="VISTA_REQUERIMIENTOS.cs" />
+    <Compile Include="vista_solicitud.cs" />
+    <Compile Include="vista_stockvalorizado.cs" />
+    <Compile Include="vista_usuario.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{225f342d-1363-4765-af17-9f8cb18a07de}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="INYSOFT2013ModelStoreContainer" CdmEntityContainer="INYSOFT2013Entities">
+    <EntitySetMapping Name="vista_saldosPrestamosPersonal">
+      <EntityTypeMapping TypeName="INYSOFT2013Model.vista_saldosPrestamosPersonal">
+        <MappingFragment StoreEntitySet="vista_saldosPrestamosPersonal">
+          <ScalarProperty Name="saldo" ColumnName="saldo" />
+          <ScalarProperty Name="importe" ColumnName="importe" />
+          <ScalarProperty Name="concepto" ColumnName="concepto" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="Detalle" ColumnName="Detalle" />
+          <ScalarProperty Name="CodPer" ColumnName="CodPer" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="PK" ColumnName="PK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="planillaSemanal">
+      <EntityTypeMapping TypeName="INYSOFT2013Model.vista_planillaSemanal">
+        <MappingFragment StoreEntitySet="vista_planillaSemanal">
+          <ScalarProperty Name="detalle" ColumnName="detalle" />
+          <ScalarProperty Name="semana" ColumnName="semana" />
+          <ScalarProperty Name="PK" ColumnName="PK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,541 @@
+Y:\CapaEntidades\bin\Debug\CapaEntidades.dll
+Y:\CapaEntidades\bin\Debug\CapaEntidades.pdb
+Y:\CapaEntidades\obj\Debug\ResolveAssemblyReference.cache
+Y:\CapaEntidades\obj\Debug\CapaEntidades.dll
+Y:\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\inyplanilla\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\inyplanilla\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\inyplanilla\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\inyplanilla\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Documents and Settings\jordinola\Escritorio\inyplanilla\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Documents and Settings\jordinola\Escritorio\inyplanilla\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Documents and Settings\jordinola\Escritorio\inyplanilla\CapaEntidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jordinola\Escritorio\inyplanilla\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Documents and Settings\jordinola\Escritorio\inyplanilla\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\SmartFileUpload\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\SmartFileUpload\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\SmartFileUpload\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\SmartFileUpload\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\seaproduccion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\seaproduccion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\seaproduccion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\seaproduccion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\hp\Desktop\seaproduccion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\hp\Desktop\seaproduccion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\hp\Desktop\seaproduccion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\hp\Desktop\seaproduccion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\hp\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\hp\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\hp\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\hp\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+I:\compartido\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.dll
+I:\compartido\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+I:\compartido\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.dll
+I:\compartido\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Darwin\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Darwin\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Darwin\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Darwin\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\PERSONALCONGELADOS\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\PERSONALCONGELADOS\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\PERSONALCONGELADOS\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\PERSONALCONGELADOS\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\escritorio\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\escritorio\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\escritorio\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\escritorio\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Administrador\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Administrador\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Administrador\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Administrador\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\jordinolaA\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\seajony\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\seajony\seapersonal\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Desktop\seajony\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinola\Desktop\seajony\seapersonal\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\seajony\seapersonalBB\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\seajony\seapersonalBB\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\seajony\seapersonalBB\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\jordinolaA\Desktop\seajony\seapersonalBB\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\seajony\seapersonalBB\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\requerimientos\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\requerimientos\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\requerimientos\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\requerimientos\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\SISTEMAS\sealogistica\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\SISTEMAS\sealogistica\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\SISTEMAS\sealogistica\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\sealogistica\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\SISTEMAS\sealogistica\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\codigo\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\codigo\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\codigo\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\codigo\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\codigo\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinolaA\Desktop\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\jordinolaA\Desktop\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinolaA\Desktop\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Versiones\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Versiones\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Versiones\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Versiones\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\sistemas\sealog-w\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\sistemas\sealog-w\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\sistemas\sealog-w\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\sistemas\sealog-w\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\sistemas\sealog-w\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\sistemas\logist\sealog-w\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\sistemas\logist\sealog-w\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\sistemas\logist\sealog-w\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\sistemas\logist\sealog-w\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\codigo\copia28042016\sealogistica\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\codigo\copia28042016\sealogistica\sealogistica\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\codigo\copia28042016\sealogistica\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\codigo\copia28042016\sealogistica\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\codigo\copia28042016\sealogistica\sealogistica\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(5)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(5)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(5)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(5)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(5)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(6)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(6)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(6)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(6)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(6)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(9)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(9)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(9)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(9)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(9)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(9)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(9)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(10)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(10)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(10)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(10)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(10)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(10)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(10)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(12)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(12)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(12)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(12)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(12)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(12)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(13)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(13)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(13)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(13)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(13)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(13)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(17)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(17)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(17)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(17)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(17)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(17)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(19)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(19)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(19)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(19)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(19)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(19)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(19)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(20)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(20)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(20)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(20)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(20)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(20)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(20)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(21)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(21)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(21)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(21)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(21)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(21)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(23)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(23)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(23)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(23)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(23)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(23)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(24)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(24)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(24)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(24)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(24)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(24)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(24)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(25)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(25)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(25)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(25)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(25)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(25)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(25)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(8)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(8)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(8)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(8)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(8)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(8)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(8)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(7)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(7)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(7)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(7)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(7)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(7)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\FileUpload(7)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\PROYECTOERP\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\PROYECTOERP\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\PROYECTOERP\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\PROYECTOERP\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\PROYECTOERP\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\PROYECTOERP\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\PROYECTOERP\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload1\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload1\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload1\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload1\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload1\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload1\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload1\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload2\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload2\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload2\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload2\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload2\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload2\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload2\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload3\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload3\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload3\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload3\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload3\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload3\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload3\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload5\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload5\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload5\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload5\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload5\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload5\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload6\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload6\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload6\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload6\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload6\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload6\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload7\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload7\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload7\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload7\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload7\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload7\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload8\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload8\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload8\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload8\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload8\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload8\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload8\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Darwin\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Darwin\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Darwin\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darwin\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darwin\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Darwin\Documents\Visual Studio 2015\Projects\FileUpload(1)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload9\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload9\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload9\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload9\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload9\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload9\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload9\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload14\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload14\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload14\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload14\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload14\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload14\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload14\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload15\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload15\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload15\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload15\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload15\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload15\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload15\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload18\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload18\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload18\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload18\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload18\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload18\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload18\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload10\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload10\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPSEAFROST\FileUpload10\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPSEAFROST\FileUpload10\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPSEAFROST\FileUpload10\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPSEAFROST\FileUpload10\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPSEAFROST\FileUpload10\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload2\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload2\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload2\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload2\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload2\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload2\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload2\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload4\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload4\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload4\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload4\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload4\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload4\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload5\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload5\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload5\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload5\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload5\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload5\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload5\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload6\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload6\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload6\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload6\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload6\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload6\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload9\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload9\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload9\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload9\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload9\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload9\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload9\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload11\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload11\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload11\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload11\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload11\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload11\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload13\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload13\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload13\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload13\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload13\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload13\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload13\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload14\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload14\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload14\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload14\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload14\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload14\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload14\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload16\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload16\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload16\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload16\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload16\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload16\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload16\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(122)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(122)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(122)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(122)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(122)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(122)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(122)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload20\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload20\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload20\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload20\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload20\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload20\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload20\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload22\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload22\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload22\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload22\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload22\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload22\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload22\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload23\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload23\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload23\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload23\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload23\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload23\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload23\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(128)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(128)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(128)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(128)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(128)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\jordinola\Documents\Visual Studio 2015\Projects\FileUpload(128)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload27\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload27\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload27\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload27\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload27\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload27\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload29\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload29\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload29\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload29\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload29\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload29\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload29\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload34\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload34\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload34\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload34\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload34\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload34\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload35\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload35\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload35\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload35\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload35\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload35\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload35\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload39\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload39\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload39\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload39\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload39\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload39\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload41\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload41\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload41\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload41\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload41\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload41\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload41\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload42\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload42\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload42\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload42\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload42\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload42\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload42\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload45\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload45\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload45\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload45\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload45\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload45\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload45\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload46\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload46\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload46\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload46\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload46\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload46\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload46\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload48\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload48\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload48\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload48\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload48\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload48\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload49\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload49\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload49\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload49\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload49\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload49\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload50\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload50\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload50\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload50\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload50\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload50\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload50\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload51\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload51\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload51\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload51\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload51\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload51\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload51\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload52\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload52\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload52\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload52\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload52\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload52\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload52\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload56\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload56\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload56\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload56\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload56\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload56\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload60\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload60\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload60\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload60\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload60\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload60\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload60\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload62\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload62\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload62\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload62\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload62\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload62\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload64\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload64\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload64\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload64\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload64\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload64\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload64\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+D:\ERPlogistica\FileUpload65\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload65\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload65\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\ERPlogistica\FileUpload65\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\ERPlogistica\FileUpload65\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\ERPlogistica\FileUpload65\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\ERPlogistica\FileUpload65\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\SF_PROG_02\Documents\Visual Studio 2015\Projects\FileUpload(42)\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\SF_PROG_02\Documents\Visual Studio 2015\Projects\FileUpload(42)\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\SF_PROG_02\Documents\Visual Studio 2015\Projects\FileUpload(42)\CapaEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SF_PROG_02\Documents\Visual Studio 2015\Projects\FileUpload(42)\CapaEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SF_PROG_02\Documents\Visual Studio 2015\Projects\FileUpload(42)\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\SF_PROG_02\Documents\Visual Studio 2015\Projects\FileUpload(42)\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\SF_PROG_02\Documents\Visual Studio 2015\Projects\FileUpload(42)\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache

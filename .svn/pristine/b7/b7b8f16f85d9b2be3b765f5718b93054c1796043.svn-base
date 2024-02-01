@@ -1,0 +1,45 @@
+﻿<!--<html ng-app xmlns="http://www.w3.org/1999/xhtml">
+<head >
+    <title></title>
+    <script src="js/angular.min.js"></script>
+    <script src="js/angular-animate.min.js"></script>
+</head>
+<body>
+    <form id="form1" >
+        <div ng-init="cars = [
+{name:'Honda City', buy_in:2003, price:700000},
+{name:'Laura', buy_in:2005, price:1300000},
+{name:'Cruze', buy_in:2010, price:1700000},
+{name:'Audi Q6', buy_in:2013, price:5200000},
+             {name:'Audi Q7', buy_in:2016, price:5200001}
+              ]">
+            <h2> I have {{cars.length}} cars and they are:</h2>
+            <label>Type Here to Filter Data: </label><input type="search" ng-model="q" placeholder="filter cars..." />
+            <ul class="example-animate-container">
+                <li class="animate-repeat" ng-repeat="car in cars | filter:q">
+                    [{{$index + 1}}] {{car.name}} was baught in {{car.buy_in}} at a price of {{car.price}}.
+                </li>
+            </ul>
+        </div>
+    </form>
+</body>
+</html>-->
+<html ng-app="testmod" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script src="js/angular.min.js"></script>
+    <title></title>
+    <script>
+        
+      var mod = angular.module('testmod', []);
+      mod.controller('greet', ['$scope', function ($scope) { 
+          $scope.hello = function () {
+              alert('Hi!! ' + $scope.name);
+          }
+      }]);
+      
+    </script>
+</head>
+<body>
+    <div ng-controller="greet"> Name: <input ng-model="name" type="text" /> <button ng-click="hello()">Greet</button> </div>
+</body>
+</html>

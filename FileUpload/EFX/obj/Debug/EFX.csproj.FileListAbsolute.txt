@@ -1,0 +1,6 @@
+C:\Users\jordinolaA\Desktop\seapersonal\EFX\bin\Debug\EFX.dll.config
+C:\Users\jordinolaA\Desktop\seapersonal\EFX\bin\Debug\EFX.dll
+C:\Users\jordinolaA\Desktop\seapersonal\EFX\bin\Debug\EFX.pdb
+C:\Users\jordinolaA\Desktop\seapersonal\EFX\obj\Debug\EFX.csprojResolveAssemblyReference.cache
+C:\Users\jordinolaA\Desktop\seapersonal\EFX\obj\Debug\EFX.dll
+C:\Users\jordinolaA\Desktop\seapersonal\EFX\obj\Debug\EFX.pdb

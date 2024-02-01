@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="INYSOFT2013ModelStoreContainer" CdmEntityContainer="INYSOFT2013Entities">
+    <EntitySetMapping Name="PersonalGruposTrabajos">
+      <EntityTypeMapping TypeName="INYSOFT2013Model.PersonalGruposTrabajos">
+        <MappingFragment StoreEntitySet="PersonalGruposTrabajos">
+          <ScalarProperty Name="idGrupoTrabajo" ColumnName="idGrupoTrabajo" />
+          <ScalarProperty Name="GrupoTrabajo" ColumnName="GrupoTrabajo" />
+          <ScalarProperty Name="Detalle" ColumnName="Detalle" />
+          <ScalarProperty Name="DetalleCorto" ColumnName="DetalleCorto" />
+          <ScalarProperty Name="TipoContrato" ColumnName="TipoContrato" />
+          <ScalarProperty Name="CodPer" ColumnName="CodPer" />
+          <ScalarProperty Name="Empresa" ColumnName="Empresa" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="CodUsu" ColumnName="CodUsu" />
+          <ScalarProperty Name="FechaMod" ColumnName="FechaMod" />
+          <ScalarProperty Name="tipoContratista" ColumnName="tipoContratista" />
+          <ScalarProperty Name="Zona" ColumnName="Zona" />
+          <ScalarProperty Name="TrabajaEmpresa" ColumnName="TrabajaEmpresa" />
+          <ScalarProperty Name="categoria" ColumnName="categoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonalPlanillaSemanal">
+      <EntityTypeMapping TypeName="INYSOFT2013Model.PersonalPlanillaSemanal">
+        <MappingFragment StoreEntitySet="PersonalPlanillaSemanal">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="FechaMod" ColumnName="FechaMod" />
+          <ScalarProperty Name="CodUsu" ColumnName="CodUsu" />
+          <ScalarProperty Name="ProcQuin" ColumnName="ProcQuin" />
+          <ScalarProperty Name="ProcGrat" ColumnName="ProcGrat" />
+          <ScalarProperty Name="ProcCTS" ColumnName="ProcCTS" />
+          <ScalarProperty Name="ProcVac" ColumnName="ProcVac" />
+          <ScalarProperty Name="ProcPlla" ColumnName="ProcPlla" />
+          <ScalarProperty Name="Cerrado" ColumnName="Cerrado" />
+          <ScalarProperty Name="Procesado" ColumnName="Procesado" />
+          <ScalarProperty Name="Detalle" ColumnName="Detalle" />
+          <ScalarProperty Name="FechaFin" ColumnName="FechaFin" />
+          <ScalarProperty Name="FechaIni" ColumnName="FechaIni" />
+          <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="Semana" ColumnName="Semana" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,11 @@
+﻿body {
+}
+.separador
+{
+	border: 1px double #000000;
+}
+.scroll
+{
+	overflow: scroll;
+	height: 300px;
+}

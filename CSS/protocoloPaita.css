@@ -1,0 +1,38 @@
+﻿body {
+}
+.cabecera
+{
+    text-align: center;
+    background-color: #FFCC99;
+    font-weight: bold;
+}
+.cuerpo
+{
+	text-align: center;
+	background-color: #FFCC99;
+	font-weight: bold;
+}
+.pie
+{
+	text-align: center;
+	background-color: #FFFFCC;
+	font-weight: bold;
+}
+.tubo
+{
+    text-align: center;
+    background-color: #99FFCC;
+    font-weight: bold;
+}
+.tentaculo
+{
+    text-align: center;
+    background-color: #99CCFF;
+    font-weight: bold;
+}
+.aleta
+{
+    text-align: center;
+    background-color: #FFFFFF;
+    font-weight: bold;
+}

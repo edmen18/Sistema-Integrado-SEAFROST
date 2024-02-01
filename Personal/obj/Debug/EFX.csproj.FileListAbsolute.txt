@@ -1,0 +1,4 @@
+C:\Users\jordinolaA\Desktop\seapersonal\Personal\bin\Debug\EFX.dll
+C:\Users\jordinolaA\Desktop\seapersonal\Personal\bin\Debug\EFX.pdb
+C:\Users\jordinolaA\Desktop\seapersonal\Personal\obj\Debug\EFX.dll
+C:\Users\jordinolaA\Desktop\seapersonal\Personal\obj\Debug\EFX.pdb

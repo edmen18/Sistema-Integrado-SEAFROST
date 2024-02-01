@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="INYSOFT2013Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="INYSOFT2013Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PersonalGruposTrabajos" EntityType="INYSOFT2013Model.PersonalGruposTrabajos" />
+    <EntitySet Name="PersonalPlanillaSemanal" EntityType="INYSOFT2013Model.PersonalPlanillaSemanal" />
+  </EntityContainer>
+  <EntityType Name="PersonalGruposTrabajos">
+    <Key>
+      <PropertyRef Name="idGrupoTrabajo" />
+    </Key>
+    <Property Name="idGrupoTrabajo" Type="Int32" Nullable="false" />
+    <Property Name="GrupoTrabajo" Type="String" MaxLength="3" Unicode="true" FixedLength="false" />
+    <Property Name="Detalle" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="DetalleCorto" Type="String" MaxLength="5" Unicode="true" FixedLength="false" />
+    <Property Name="TipoContrato" Type="String" MaxLength="1" Unicode="true" FixedLength="false" />
+    <Property Name="CodPer" Type="String" MaxLength="11" Unicode="false" FixedLength="false" />
+    <Property Name="Empresa" Type="Boolean" />
+    <Property Name="Activo" Type="Boolean" />
+    <Property Name="CodUsu" Type="String" MaxLength="10" Unicode="true" FixedLength="false" />
+    <Property Name="FechaMod" Type="DateTime" Precision="3" />
+    <Property Name="tipoContratista" Type="String" MaxLength="1" Unicode="false" FixedLength="true" />
+    <Property Name="Zona" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="TrabajaEmpresa" Type="Boolean" />
+    <Property Name="categoria" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="PersonalPlanillaSemanal">
+    <Key>
+      <PropertyRef Name="Semana" />
+    </Key>
+    <Property Type="String" Name="Semana" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Periodo" MaxLength="6" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Ubicacion" MaxLength="3" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="FechaIni" Precision="3" />
+    <Property Type="DateTime" Name="FechaFin" Precision="3" />
+    <Property Type="String" Name="Detalle" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="Procesado" />
+    <Property Type="Boolean" Name="Cerrado" />
+    <Property Type="Boolean" Name="ProcPlla" />
+    <Property Type="Boolean" Name="ProcVac" />
+    <Property Type="Boolean" Name="ProcCTS" />
+    <Property Type="Boolean" Name="ProcGrat" />
+    <Property Type="Boolean" Name="ProcQuin" />
+    <Property Type="String" Name="CodUsu" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="FechaMod" Precision="3" />
+    <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+</Schema>

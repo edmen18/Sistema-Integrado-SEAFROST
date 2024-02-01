@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Untitled Page</title>
+    <style type="text/css">
+        .style2
+        {
+            width: 235px;
+        }
+    </style>
+</head>
+<body>
+
+    <table >
+    <tr><td align="center" colspan="2">Solicitud de Acción Correctiva/Preventiva</td></tr>
+    <tr><td>Dirigida a:</td><td></td></tr>
+    <tr><td>Tipo:</td><td ></td></tr>
+    <tr><td>Origen de la no conformidad:</td><td></td></tr>
+    <tr><td>Descripción:</td><td></td></tr>
+    <tr><td>Responsable:</td><td></td></tr>
+    </table>
+
+</body>
+</html>

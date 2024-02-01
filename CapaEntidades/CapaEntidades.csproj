@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{59B281DD-D078-4535-921A-1C1C84842205}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaEntidades</RootNamespace>
+    <AssemblyName>CapaEntidades</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net40\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cls_articulos.cs" />
+    <Compile Include="Cls_bloqueo.cs" />
+    <Compile Include="Cls_Control.cs" />
+    <Compile Include="Cls_Detalle.cs" />
+    <Compile Include="Cls_DetalleOrdenTrabajo.cs" />
+    <Compile Include="Cls_AccesosModuloInyweb.cs" />
+    <Compile Include="Cls_AnexoDocCAb.cs" />
+    <Compile Include="Cls_anexo_doc_cabGuias .cs" />
+    <Compile Include="Cls_Areas.cs" />
+    <Compile Include="Cls_CentroCostosPPPCE.cs" />
+    <Compile Include="Cls_ComparativoCab.cs" />
+    <Compile Include="Cls_details_reprocesos.cs" />
+    <Compile Include="Cls_DetalleSolicitudCorrectivaPreventiva.cs" />
+    <Compile Include="Cls_DetPlanilla.cs" />
+    <Compile Include="Cls_DocumRelacionExterno.cs" />
+    <Compile Include="Cls_Doc_cab.cs" />
+    <Compile Include="Cls_Doc_det.cs" />
+    <Compile Include="Cls_Empresas.cs" />
+    <Compile Include="Cls_Especie.cs" />
+    <Compile Include="Cls_especies_materiaprima.cs" />
+    <Compile Include="Cls_EtiquetasTrazabilidad.cs" />
+    <Compile Include="Cls_FilesContent.cs" />
+    <Compile Include="Cls_InicialLote.cs" />
+    <Compile Include="Cls_Inyprod_Configuraciones.cs" />
+    <Compile Include="Cls_Master_Reprocesos.cs" />
+    <Compile Include="Cls_OrdenTrabajo.cs" />
+    <Compile Include="Cls_Personal.cs" />
+    <Compile Include="Cls_planActividades.cs" />
+    <Compile Include="Cls_planillaCab.cs" />
+    <Compile Include="Cls_Planilla.cs" />
+    <Compile Include="Cls_Procesos.cs" />
+    <Compile Include="Cls_Producto.cs" />
+    <Compile Include="Cls_Productos.cs" />
+    <Compile Include="Cls_Rendimienstos.cs" />
+    <Compile Include="Cls_Sala.cs" />
+    <Compile Include="Cls_Salida.cs" />
+    <Compile Include="Cls_Series.cs" />
+    <Compile Include="Cls_SeriesValva.cs" />
+    <Compile Include="Cls_Sesion.cs" />
+    <Compile Include="Cls_SolicitudCorrectivaPreventiva.cs" />
+    <Compile Include="Cls_Tarea.cs" />
+    <Compile Include="Cls_Usuarios.cs" />
+    <Compile Include="Cls_estuctura_producto.cs" />
+    <Compile Include="PRAL0003MOVG.cs" />
+    <Compile Include="PRAL0003MOVG0.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="INYSOFT2013Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="INYSOFT2013Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="vista_saldosPrestamosPersonal" EntityType="INYSOFT2013Model.vista_saldosPrestamosPersonal" />
+    <EntitySet Name="planillaSemanal" EntityType="INYSOFT2013Model.vista_planillaSemanal" />
+  </EntityContainer>
+  <EntityType Name="vista_saldosPrestamosPersonal">
+    <Key>
+      <PropertyRef Name="PK" />
+    </Key>
+    <Property Type="Int64" Name="PK" Nullable="false" />
+    <Property Type="String" Name="codigo" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CodPer" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Detalle" MaxLength="80" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="fecha" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="concepto" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="importe" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="saldo" Precision="19" Scale="4" />
+  </EntityType>
+  <EntityType Name="vista_planillaSemanal">
+    <Key>
+      <PropertyRef Name="PK" />
+      <PropertyRef Name="semana" />
+    </Key>
+    <Property Type="Int64" Name="PK" Nullable="false" />
+    <Property Type="String" Name="semana" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="detalle" MaxLength="48" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

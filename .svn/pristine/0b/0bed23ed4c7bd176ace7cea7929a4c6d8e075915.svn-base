@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="INYSOFT2013Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="INYSOFT2013ModelStoreContainer">
+    <EntitySet Name="PersonalGruposTrabajos" EntityType="INYSOFT2013Model.Store.PersonalGruposTrabajos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PersonalPlanillaSemanal" EntityType="INYSOFT2013Model.Store.PersonalPlanillaSemanal" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="PersonalGruposTrabajos">
+    <Key>
+      <PropertyRef Name="idGrupoTrabajo" />
+    </Key>
+    <Property Name="idGrupoTrabajo" Type="int" Nullable="false" />
+    <Property Name="GrupoTrabajo" Type="nvarchar" MaxLength="3" />
+    <Property Name="Detalle" Type="nvarchar" MaxLength="100" />
+    <Property Name="DetalleCorto" Type="nvarchar" MaxLength="5" />
+    <Property Name="TipoContrato" Type="nvarchar" MaxLength="1" />
+    <Property Name="CodPer" Type="varchar" MaxLength="11" />
+    <Property Name="Empresa" Type="bit" />
+    <Property Name="Activo" Type="bit" />
+    <Property Name="CodUsu" Type="nvarchar" MaxLength="10" />
+    <Property Name="FechaMod" Type="datetime" />
+    <Property Name="tipoContratista" Type="char" MaxLength="1" />
+    <Property Name="Zona" Type="varchar" MaxLength="10" />
+    <Property Name="TrabajaEmpresa" Type="bit" />
+    <Property Name="categoria" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="PersonalPlanillaSemanal">
+    <Key>
+      <PropertyRef Name="Semana" />
+    </Key>
+    <Property Name="Semana" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Periodo" Type="nvarchar" MaxLength="6" />
+    <Property Name="Ubicacion" Type="nvarchar" MaxLength="3" />
+    <Property Name="FechaIni" Type="datetime" />
+    <Property Name="FechaFin" Type="datetime" />
+    <Property Name="Detalle" Type="nvarchar" MaxLength="100" />
+    <Property Name="Procesado" Type="bit" />
+    <Property Name="Cerrado" Type="bit" />
+    <Property Name="ProcPlla" Type="bit" />
+    <Property Name="ProcVac" Type="bit" />
+    <Property Name="ProcCTS" Type="bit" />
+    <Property Name="ProcGrat" Type="bit" />
+    <Property Name="ProcQuin" Type="bit" />
+    <Property Name="CodUsu" Type="nvarchar" MaxLength="10" />
+    <Property Name="FechaMod" Type="datetime" />
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <!--Se encontraron errores durante la generación:
+      advertencia 6013: La tabla o vista 'INYSOFT2013.dbo.vista_planillaSemanal' no tiene una clave principal definida y no es posible inferir ninguna clave principal válida. Esta tabla o vista se ha excluido. Para usar la entidad, necesitará revisar el esquema, agregar las claves correctas y quitar sus comentarios.
+      
+      <EntityType Name="vista_planillaSemanal">
+        <Property Name="semana" Type="nvarchar" MaxLength="8" />
+        <Property Name="detalle" Type="varchar" MaxLength="48" />
+      </EntityType>
+      Se encontraron errores durante la generación:
+      advertencia 6013: La tabla o vista 'INYSOFT2013.dbo.vista_saldosPrestamosPersonal' no tiene una clave principal definida y no es posible inferir ninguna clave principal válida. Esta tabla o vista se ha excluido. Para usar la entidad, necesitará revisar el esquema, agregar las claves correctas y quitar sus comentarios.
+      
+      <EntityType Name="vista_saldosPrestamosPersonal">
+        <Property Name="codigo" Type="varchar" MaxLength="15" />
+        <Property Name="CodPer" Type="nvarchar" MaxLength="15" />
+        <Property Name="Detalle" Type="nvarchar" MaxLength="80" />
+        <Property Name="fecha" Type="varchar" MaxLength="20" />
+        <Property Name="concepto" Type="varchar" MaxLength="50" />
+        <Property Name="importe" Type="money" />
+        <Property Name="saldo" Type="money" />
+      </EntityType>-->
+</Schema>

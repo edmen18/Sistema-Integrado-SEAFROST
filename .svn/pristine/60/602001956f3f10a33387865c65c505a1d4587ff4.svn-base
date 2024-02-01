@@ -1,0 +1,9 @@
+f_prod	producto	calibre	presentacion	kilos	id	proceso	observaciones	sala	turno	usuario	f_doc	idproducto	idpresentacion	idcalibre	idproceso	
+02/06/2013	Daruma estandar	s/c	Block x 7,5 kg	1500	00001	Produccion		1	Dia	ffranco	03/06/2013	14	07	43	001	
+02/06/2013	Aleta precocida	s/c	Block x 10 kg	50	00001	Produccion		1	Dia	ffranco	03/06/2013	06	09	43	001	
+19/06/2013	Aleta cruda	s/c	Block x 7,5 kg	546	00002	Produccion	FILETE POR COCINA = 05 DINOS = 2  TM APROX  ALETA POR COCINAR =  16 DINOS = 9,5 TM APROX  REJOS X ENVASAR = 23 DINOS = 9,20 TM	1	Dia	ffranco	20/06/2013	05	07	43	001	
+19/06/2013	Rejos bailarina s/s s/v fresco	1-2	Block x 7,5 kg	256	00002	Produccion	FILETE POR COCINA = 05 DINOS = 2  TM APROX  ALETA POR COCINAR =  16 DINOS = 9,5 TM APROX  REJOS X ENVASAR = 23 DINOS = 9,20 TM	1	Dia	ffranco	20/06/2013	58	07	08	001	
+19/06/2013	Rejos bailarina s/s s/v fresco	2-3	Block x 7,5 kg	156	00002	Produccion	FILETE POR COCINA = 05 DINOS = 2  TM APROX  ALETA POR COCINAR =  16 DINOS = 9,5 TM APROX  REJOS X ENVASAR = 23 DINOS = 9,20 TM	1	Dia	ffranco	20/06/2013	58	07	17	001	
+19/06/2013	Rejos bailarina s/s s/v fresco	3-4	Block x 10 kg	160	00002	Produccion	FILETE POR COCINA = 05 DINOS = 2  TM APROX  ALETA POR COCINAR =  16 DINOS = 9,5 TM APROX  REJOS X ENVASAR = 23 DINOS = 9,20 TM	1	Dia	ffranco	20/06/2013	58	09	22	001	
+19/06/2013	Daruma estandar	s/c	Block x 7,5 kg	889	00002	Produccion	FILETE POR COCINA = 05 DINOS = 2  TM APROX  ALETA POR COCINAR =  16 DINOS = 9,5 TM APROX  REJOS X ENVASAR = 23 DINOS = 9,20 TM	1	Dia	ffranco	20/06/2013	14	07	43	001	
+19/06/2013	Recorte precocido blanco	s/c	Block x 7,5 kg	121	00002	Produccion	FILETE POR COCINA = 05 DINOS = 2  TM APROX  ALETA POR COCINAR =  16 DINOS = 9,5 TM APROX  REJOS X ENVASAR = 23 DINOS = 9,20 TM	1	Dia	ffranco	20/06/2013	56	07	43	001	
